@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ## **Video Overview**
 
-A 50-80 second video summarizing the project is available. It highlights the methodology, findings, and applications of this analysis. The video is suitable for presentations and showcases key results visually.
+A 1 minute video summarizing the project is available. It highlights the methodology, findings, and applications of this analysis. The video is suitable for presentations and showcases key results visually.
 
 Link : https://youtu.be/ZBgakvKKvIg?si=Etv3Em6yVtxx44vj
 
